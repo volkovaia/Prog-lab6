@@ -1,0 +1,130 @@
+{
+  "array": [
+    {
+      "id": 2,
+      "name": "Pollyanna",
+      "coordinates": {
+        "x": 7,
+        "y": 6.0
+      },
+      "creationDate": "2024-03-14",
+      "minimalPoint": 5,
+      "personalQualitiesMinimum": 4.0,
+      "averagePoint": 3.0,
+      "difficulty": "NORMAL",
+      "discipline": {
+        "name": "Happy",
+        "practiceHours": 2,
+        "labsCount": 1
+      }
+    },
+    {
+      "id": 3,
+      "name": "Robert",
+      "coordinates": {
+        "x": 8,
+        "y": 7.0
+      },
+      "creationDate": "2024-03-14",
+      "minimalPoint": 6,
+      "personalQualitiesMinimum": 5.0,
+      "averagePoint": 4.0,
+      "difficulty": "NORMAL",
+      "discipline": {
+        "name": "PE",
+        "practiceHours": 2,
+        "labsCount": 3
+      }
+    },
+    {
+      "id": 6,
+      "name": "Spring",
+      "coordinates": {
+        "x": 8,
+        "y": 7.0
+      },
+      "creationDate": "2024-03-30",
+      "minimalPoint": 6,
+      "personalQualitiesMinimum": 5.0,
+      "averagePoint": 4.0,
+      "difficulty": "NORMAL",
+      "discipline": {
+        "name": "PE",
+        "practiceHours": 2,
+        "labsCount": 3
+      }
+    },
+    {
+      "id": 4,
+      "name": "test",
+      "coordinates": {
+        "x": 1,
+        "y": 2.0
+      },
+      "creationDate": "2024-03-17",
+      "minimalPoint": 3,
+      "personalQualitiesMinimum": 4.0,
+      "averagePoint": 5.0,
+      "difficulty": "EASY",
+      "discipline": {
+        "name": "abc",
+        "practiceHours": 2,
+        "labsCount": 1
+      }
+    },
+    {
+      "id": 5,
+      "name": "test1234567890",
+      "coordinates": {
+        "x": 1,
+        "y": 2.0
+      },
+      "creationDate": "2024-03-30",
+      "minimalPoint": 3,
+      "personalQualitiesMinimum": 4.0,
+      "averagePoint": 5.0,
+      "difficulty": "EASY",
+      "discipline": {
+        "name": "abc",
+        "practiceHours": 2,
+        "labsCount": 1
+      }
+    },
+    {
+      "id": 1,
+      "name": "Николай",
+      "coordinates": {
+        "x": 34,
+        "y": 23.4
+      },
+      "creationDate": "2024-05-06",
+      "minimalPoint": 12365,
+      "personalQualitiesMinimum": 20.3,
+      "averagePoint": 45.8,
+      "difficulty": "INSANE",
+      "discipline": {
+        "name": "Свободная",
+        "practiceHours": 14,
+        "labsCount": 5
+      }
+    },
+    {
+      "id": 7,
+      "name": "qwert",
+      "coordinates": {
+        "x": 23456,
+        "y": 3456.0
+      },
+      "creationDate": "2024-05-03",
+      "minimalPoint": 321,
+      "personalQualitiesMinimum": 456789.0,
+      "averagePoint": 987654.0,
+      "difficulty": "EASY",
+      "discipline": {
+        "name": "werty",
+        "practiceHours": 123456789,
+        "labsCount": 123456
+      }
+    }
+  ]
+}
